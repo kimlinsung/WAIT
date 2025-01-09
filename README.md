@@ -82,3 +82,4 @@ You can see the avrora output.
 - [ ] stub.txt what for?
 - [ ] abstract the modifications scattered in the code (e.g., example/Cmakelist, src/main.c)
 - [ ] what wasmbench.sh for?
+- [ ] where is ../bin/aot.elf when run runwait.sh?
